@@ -1,6 +1,20 @@
 # 6WCSERVER-WD-201-Group3
 Luminous
 
+FINAL OUTPUT: ”LUMINOUS”
+
+Submitted to:
+PROF. JOSEPH ESQUIVEL
+
+Submitted by:
+(GROUP 3 IN WD-201)
+KRISTINE JOY DACQUIL
+DAYSON DELFIN
+LOUIS JAE GARCIA
+CHARMAGNE DALE MANIAGO
+NICKAELLA NOTRA
+
+
 Our project, named Luminous Dermatology Clinic website caters our clients on their skin care needs with our improved online booking services and appointments. Our website offers a wide range of services to our clients such as online booking system that allows them to schedule their desired appointment with our clinic at their convenience, while providing them as well an option to choose with our special offered services that will definitely satisfy their skin care needs.
 	Our homepage includes the website's name, a short introduction that describes our website services, and the navigation bar that are designed to fully cater the service needs of our clients.
 	Review page provides our business with feedback from our clients regarding their experiences, helping our business to analyze reviews that will align us towards success and understand overall customer satisfaction.
