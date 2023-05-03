@@ -1,5 +1,5 @@
-# 6WCSERVER-WD-201-Group3
-Luminous
+# 6WCSERVER-WD-201-Luminous
+
 
 FINAL OUTPUT: ”LUMINOUS”
 
